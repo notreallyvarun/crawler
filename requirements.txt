@@ -1,0 +1,8 @@
+scrapy
+PyPDF2
+pdf2image
+pytesseract
+openai
+python-dotenv
+requests
+Pillow
